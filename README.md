@@ -1,0 +1,2 @@
+# Modifying a final field in Dart
+This example demonstrates a common error in Dart: attempting to modify a `final` field after it has been initialized. The `final` keyword in Dart indicates that a variable can only be assigned a value once, typically during initialization. Attempting to modify it later results in a compile-time error.
